@@ -1,1 +1,1 @@
-# it3038c-hello-world
+Hello World - IT3038C assignment
